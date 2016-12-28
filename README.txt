@@ -7,6 +7,7 @@ CONTENTS OF THIS FILE
  * Frequently Asked Questions (FAQ)
  * Known Issues
  * How Can You Contribute?
+ * One more thing~
 
 
 INTRODUCTION
